@@ -16,16 +16,6 @@
 
 <hr style="border"; height=1px; background-color=#43962a; width=100%;"/>
 
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=isafurlan&theme=transparent&hide_border=true&date_currStreakNum=709665&format=j%20M%5B%20Y%5D&ring=316123&fire=43962a&currStreakLabel=709665&dates=A6B98B&sideLabels=709665&sideNums=709665&currStreakNum=709665&card_width=900)](https://git.io/streak-stats)
-  
-</div>
-
-<hr style="border"; height=1px; background-color=#43962a; width=100%;"/>
-
-  
 <div align="center"; padding: 10px;">
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
